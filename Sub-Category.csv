@@ -1,0 +1,6 @@
+ID;Category ID;Sub Category Name;Sub Category Description
+SC01;C01;Camera;Visual monitoring tool
+SC02;C01;Temperature Sensor;Measuring air temp
+SC03;C01;Motion Sensor;Monitoring for motion to trigger action
+SC04;C01;Access Control;Managing access for people entering and exiting the zone
+SC05;C01;Speed Sensor;Measuring speed of moving object

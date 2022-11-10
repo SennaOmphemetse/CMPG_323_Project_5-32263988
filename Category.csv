@@ -1,0 +1,8 @@
+ID;CategoryName;CategoryDescription
+C01;Sensing;This is one of the four key concepts of IoT. A number used to encrypt (or encode) information so that no one can read it. It deals with how machines can sense their environment in many ways
+C02;Computing;This is another of the four key enabling IoT concepts. It includes the Cloudand Machine Learning Machine learning (or ML) is a process by which machines can be trained to perform tasks that required humans before. It's based on analysis of lots of data, and it might affect how some IoT devices work. Artificial Intelligence. Here you will find posts that discuss any of these topics. A generic phrase referring to large numbers of computers located somewhere far away and accessed over the internet. For the IoT, computing may be local, done in the same system or building, or in the cloud, with data shipped up to the cloud and then the result shipped back down
+C03;Communicating;This is yet another of the four key IoT concepts. The IoT doesn’t happen without lots of communication, and here you’ll find posts that deal with that communication.
+C04;Actuating;"This is the final IoT concept; it deals with how computers can control other devices. This category includes all posts related to actuation."
+C05;Security;Because of the damage that hackers can do – and have already done, this is an enormously important topic for the IoT. Any posts dealing with security can be found in this category.
+C06;Energy;Many IoT devices are battery-powered. So it’s important for designers to consider how much energy they consume as they function
+C07;Privacy;Keeping data private is also critical for the IoT. Privacy is often lumped in with security, but it’s a distinct topic, and so it has its own category.

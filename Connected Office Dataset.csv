@@ -1,0 +1,10 @@
+ID;Device Name;Category ID;Zone ID;Status;Is Active;Date Installe
+D01;Front-door Camera;Camera;Terrazzo;Active;TRUE;2020/01/25
+D02;Boiler Temp;Temperature Sensor;Boilermaker Room;Inactive;TRUE;2021/02/02
+D03;Speed Testing;Speed Sensor;Safety Office;Active;TRUE;2021/12/11
+D04;Entry Access;Access Control;Stucco Mason Building;Active;TRUE;2022/03/21
+D05;Exit Access;Access Control;Stucco Mason Building;Inactive;FALSE;2022/03/21
+D06;Light Activation;Motion Sensor;Labor Office;Inactive;FALSE;2021/05/17
+D07;Front-door Camera;Camera;Environmental Office;Active;TRUE;2021/08/01
+D08;Aircon Activation;Motion Sensor;Tile Setting Bench;Inactive;FALSE;2021/08/26
+D09;Assembly Temp;Temperature Sensor;Linemen Assembly;Inactive;FALSE;2022/01/23
